@@ -3,8 +3,6 @@
 // http://www.github.com/erwijet/syscmd
 // http://www.nodejs.org/syscmd
 
-
-const sys = require('sys');
 const exec = require('child_process').exec;
 
 function puts(err, stdo, stderr) {
