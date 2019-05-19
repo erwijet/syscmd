@@ -1,0 +1,22 @@
+{
+  "name": "syscmd",
+  "version": "0.1.0",
+  "description": "A small package that allows for shell commands to be executed right from Node",
+  "main": "syscmd.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "http://www.github.com/erwijet/syscmd"
+  },
+  "keywords": [
+    "Command",
+    "Shell",
+    "Nodejs"
+  ],
+  "author": "Tyler Holewinski",
+  "license": "MIT",
+  "dependencies": {
+    "child_process": "^1.0.2",
+    "sys": "0.0.1"
+  }
+}
