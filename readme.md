@@ -3,7 +3,7 @@ A small package that allows for shell commands to be executed right from Node ðŸ
 
 [![npm version](http://img.shields.io/npm/v/syscmd.svg?style=flat)](https://npmjs.org/package/syscmd "View this project on npm")
 [![NPM Downloads](https://img.shields.io/npm/dt/syscmd.svg)](http://npmjs.com/syscmd)<br>
-[![GitHub version](https://badge.fury.io/gh/erwijet%2Fsyscmd.svg)](https://github.com/erwijet/syscmd.js)
+[![GitHub version](https://badge.fury.io/js/syscmd.svg)](https://github.com/erwijet/syscmd)
 [![GitHub issues](https://img.shields.io/github/issues/erwijet/syscmd.svg)](https://GitHub.com/erwijet/syscmd/issues/)
 [![GitHub pull-requests](https://img.shields.io/github/issues-pr/erwijet/syscmd.svg)](https://GitHub.com/erwijet/syscmd/pull/)
 [![MIT license](http://img.shields.io/badge/license-MIT-brightgreen.svg)](http://opensource.org/licenses/MIT)<br>
