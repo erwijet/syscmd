@@ -48,7 +48,7 @@ syscmd('unzip archive.zip -d archive/', () => null);
 
 ------
 
-**syscmd** © 2019, Tyler Holewinski. Released under the [MIT] License.<br>
+**syscmd** (MIT) 2019, Tyler Holewinski. Released under the [MIT] License.<br>
 Authored and maintained by Tyler Holewinski with help from contributors.
 
 > GitHub [@erwijet](https://github.com/erwijet) &nbsp;&middot;&nbsp;
